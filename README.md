@@ -38,9 +38,8 @@ To build and run this project, you need:
 
 1. **Clone the Repository**:
    - Open a terminal and run the following command:
-     ```bash
-     git clone https://github.com/your-repo/movie-app.git
-     ```
+https://github.com/RubinsSapkota/Movie_App
+
 
 2. **Open the Project in Android Studio**:
    - Open Android Studio.
